@@ -1,0 +1,22 @@
+#############################################################
+##                   Estrutura de cloud                    ##
+#############################################################
+#Autonomous
+#	Nome: ADWGUOB
+#	Workload: Data Werehouse
+#	Sharede
+#	Senha: Cunha@accerte2019
+#	
+#VCN
+#	Nome: VCN1
+#	CIDR: 10.0.0.0/16
+#	
+#Criar um Internet Gateway
+#	Nome: IG1
+#
+#Criar un NAT Gateway
+#	Nome: NAT1
+#	
+#	
+#LB_IP: 168.138.227.20
+############################################################
